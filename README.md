@@ -3,7 +3,7 @@ REST API developed using flask
 
 # Flask example
 
-Using Flask to build a Restful API Server with Swagger document.
+Using Flask to build a Restful API Server.
 
 Integration with Flask-restplus,Flask-SQLalchemy.
 
