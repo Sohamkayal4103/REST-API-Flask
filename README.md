@@ -5,7 +5,7 @@ REST API developed using flask
 
 Using Flask to build a Restful API Server with Swagger document.
 
-Integration with Flask-restplus, Flask-Cors, Flask-Testing, Flask-SQLalchemy,and Flask-OAuth extensions.
+Integration with Flask-restplus,Flask-SQLalchemy.
 
 ### Extension:
 - Restful: [Flask-restplus](http://flask-restplus.readthedocs.io/en/stable/)
